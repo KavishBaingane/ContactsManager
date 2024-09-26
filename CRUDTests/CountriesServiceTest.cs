@@ -12,7 +12,7 @@ namespace CRUDTests
        
         public CountriesServiceTest(ICountriesService countriesService)
         {
-          //  _countriesService = countriesService;
+            _countriesService = countriesService;
         }
 
         //when u supply null , is should aegumentnullexception
