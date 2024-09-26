@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactsManager", "Contacts
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDTests", "CRUDTests\CRUDTests.csproj", "{52A3E216-BCDA-4308-9E30-48291E62897D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{84F5D499-3054-4AAD-BA1B-71FFF993BFB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceContracts", "ServiceContracts\ServiceContracts.csproj", "{1D346AC0-79E5-48DE-A28E-E6CB343DCAD9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{52A3E216-BCDA-4308-9E30-48291E62897D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52A3E216-BCDA-4308-9E30-48291E62897D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52A3E216-BCDA-4308-9E30-48291E62897D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84F5D499-3054-4AAD-BA1B-71FFF993BFB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84F5D499-3054-4AAD-BA1B-71FFF993BFB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84F5D499-3054-4AAD-BA1B-71FFF993BFB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84F5D499-3054-4AAD-BA1B-71FFF993BFB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D346AC0-79E5-48DE-A28E-E6CB343DCAD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D346AC0-79E5-48DE-A28E-E6CB343DCAD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D346AC0-79E5-48DE-A28E-E6CB343DCAD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D346AC0-79E5-48DE-A28E-E6CB343DCAD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
